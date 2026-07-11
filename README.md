@@ -525,6 +525,4 @@ consider giving them a ⭐ on GitHub.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0B1120,50:1D4ED8,100:38BDF8"/>
-
 </div>
