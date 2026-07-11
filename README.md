@@ -321,8 +321,6 @@ Currently exploring AI, Full Stack Development, Cloud Computing, and Open Source
 
 ### 💛 Consistency beats intensity.
 
-<br>
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ankita12365/ankita12365/main/assets/50-days-badge.png" width="190"/>
@@ -333,7 +331,7 @@ Currently exploring AI, Full Stack Development, Cloud Computing, and Open Source
 
 </div>
 
-<br><br>
+
 
 | Achievement | Description |
 | :--- | :--- |
