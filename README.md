@@ -321,24 +321,23 @@ Currently exploring AI, Full Stack Development, Cloud Computing, and Open Source
 
 ### 💛 Consistency beats intensity.
 
-<div align="center">
+<table align="center">
+<tr>
 
-<img src="https://raw.githubusercontent.com/ankita12365/ankita12365/main/assets/50-days-badge.png" width="190"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/ankita12365/ankita12365/main/assets/50-days-badge.png" width="180"/><br>
+<b>50 Days Badge</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="40"></td>
 
-<img src="https://raw.githubusercontent.com/ankita12365/ankita12365/main/assets/June-2026.png" width="190"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/ankita12365/ankita12365/main/assets/June-2026.png" width="180"/><br>
+<b>June Challenge 2026</b>
+</td>
 
-</div>
-
-
-
-| Achievement | Description |
-| :--- | :--- |
-| 🟢 **50 Days Badge 2026** | Earned by maintaining a consistent coding streak on LeetCode. |
-| 🟡 **Daily Coding Challenge - June 2026** | Successfully completed LeetCode's June Daily Coding Challenge. |
-
-<br>
+</tr>
+</table>
 
 <a href="https://leetcode.com/u/Ankita_chavan09/">
 <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
