@@ -144,147 +144,173 @@ Current Goal:
 
 <div align="center">
 
-### Building software that solves real-world problems through AI, Web Development, Mobile Apps, and Intelligent Systems.
+<table>
 
-</div>
+<tr>
 
----
-
-## 🧠 Semantic Contradiction Ledger
-
-<p align="center">
-
-<img src="./assets/semantic-ledger.png" width="850"/>
-
-</p>
-
-AI-powered semantic contradiction detection system that analyzes statements, detects logical inconsistencies, and improves information reliability using Natural Language Processing.
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0EA5E9?style=for-the-badge"/>
-
-</p>
-
-<a href="https://github.com/ankita12365/Semantic-Contradiction-Ledger">
-<img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🏥 MediSure
-
-<p align="center">
-
-<img src="./assets/medisure.png" width="850"/>
-
-</p>
-
-An AI-assisted healthcare platform that simplifies medical information management and aims to improve patient accessibility through intelligent features.
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Healthcare-DC2626?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Research-059669?style=for-the-badge"/>
-
-</p>
-
-<a href="https://github.com/ankita12365/MediSure">
-<img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🏀 PocketCourt
-
-<p align="center">
-
-<img src="./assets/pocketcourt.png" width="850"/>
-
-</p>
-
-A mobile application that helps users discover, book, and manage sports courts while encouraging community participation in sports.
-
-<p>
-
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Mobile%20Application-0891B2?style=for-the-badge"/>
-
-</p>
-
-<a href="https://github.com/ankita12365/PocketCourtApp">
-<img src="https://img.shields.io/badge/View%20Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🌪 Smart Disaster Evacuation Planner
-
-<p align="center">
-
-<img src="./assets/disaster-planner.png" width="850"/>
-
-</p>
-
-A graph-based disaster evacuation planner that calculates the safest evacuation routes using intelligent path-finding and dynamic risk analysis.
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Graphs-E11D48?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Algorithms-7C3AED?style=for-the-badge"/>
-
-</p>
-
-<a href="https://github.com/ankita12365/Smart-Disaster-Evacuation-Planner">
-<img src="https://img.shields.io/badge/View%20Repository-E11D48?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🍽 Smart Kitchen System
-
-<p align="center">
-
-<img src="./assets/smart-kitchen.png" width="850"/>
-
-</p>
-
-An intelligent inventory management system that predicts food spoilage, tracks kitchen inventory, and recommends recipes based on available ingredients.
-
-<p>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-9333EA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JSON-059669?style=for-the-badge"/>
-
-</p>
-
-<a href="https://github.com/ankita12365/Smart-Kitchen-System">
-<img src="https://img.shields.io/badge/View%20Repository-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-# 💡 Areas of Interest
+<td width="50%">
 
 <div align="center">
 
-| 🤖 AI | 🌐 Full Stack | ☁ Cloud | 📱 Mobile | ⚙ Backend |
-|:----:|:-------------:|:-------:|:---------:|:---------:|
-| Building intelligent systems | Modern web applications | Scalable infrastructure | Cross-platform apps | APIs & services |
+# 🧠 Semantic Contradiction Ledger
+
+AI-powered semantic contradiction detection system using Natural Language Processing.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NLP-2563EB?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/AI-0EA5E9?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/ankita12365/Semantic-Contradiction-Ledger">
+
+<img src="https://img.shields.io/badge/View%20Repository-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+</td>
+
+<td width="50%">
+
+<div align="center">
+
+# 🏥 MediSure
+
+Healthcare platform focused on smarter medical information management and accessibility.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Healthcare-DC2626?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Research-059669?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/ankita12365/MediSure">
+
+<img src="https://img.shields.io/badge/View%20Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<div align="center">
+
+# 🏀 PocketCourt
+
+Sports court booking and community engagement mobile application.
+
+<br>
+
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Mobile-App-0891B2?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/ankita12365/PocketCourtApp">
+
+<img src="https://img.shields.io/badge/View%20Repository-10B981?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+</td>
+
+<td width="50%">
+
+<div align="center">
+
+# 🌪 Smart Disaster Evacuation Planner
+
+Graph-based intelligent evacuation planning for emergency situations.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Graphs-E11D48?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Algorithms-9333EA?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/ankita12365/Smart-Disaster-Evacuation-Planner">
+
+<img src="https://img.shields.io/badge/View%20Repository-E11D48?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<div align="center">
+
+# 🍽 Smart Kitchen System
+
+AI-powered kitchen inventory and spoilage prediction system.
+
+<br>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OOP-9333EA?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/JSON-059669?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/ankita12365/Smart-Kitchen-System">
+
+<img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+</td>
+
+<td width="50%">
+
+<div align="center">
+
+# 🚀 More Coming Soon...
+
+Currently exploring AI, Full Stack Development, Cloud Computing, and Open Source.
+
+⭐ Stay tuned for exciting new projects!
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
