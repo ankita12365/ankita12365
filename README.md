@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F172A,50:1D4ED8,100:38BDF8&text=Ankita%20Chavan&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Computer%20Engineering%20Student%20•%20AI%20Developer%20•%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0B1120,40:1D4ED8,100:38BDF8&text=Ankita%20Chavan&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
 
-# 👋 Hello, I'm Ankita Chavan
+# 👋 Hi, I'm Ankita Chavan
 
-### Building AI-powered software that creates real-world impact.
+### Building intelligent software that solves real-world problems.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Machine+Learning+Learner;Backend+Developer;Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Machine+Learning+Learner;Backend+Developer;Always+Learning+Something+New"/>
 
 <br>
 
 <a href="https://github.com/ankita12365">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ankita-chavan-a89130357/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Ankita_chavan09/">
@@ -23,12 +23,8 @@
 </a>
 
 <a href="https://www.instagram.com/_ankuzz_01/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ankita12365&style=for-the-badge&color=2563EB"/>
 
 </div>
 
@@ -40,51 +36,50 @@
 Name: Ankita Chavan
 
 Education:
-  B.Tech Computer Engineering
+  B.Tech in Computer Engineering
 
 College:
   Vishwakarma Institute of Technology, Pune
 
-Passionate About:
+Interested In:
   • Artificial Intelligence
   • Machine Learning
   • Full Stack Development
   • Backend Engineering
   • Cloud Computing
-  • Open Source
 
 Current Goal:
-  Build scalable AI-powered applications
+  Building impactful AI-powered software
   while continuously improving my
   problem-solving skills.
 ```
 
 ---
 
-# 🚀 Current Focus
+# 🚀 What I'm Working On
 
-- 🤖 Building AI Applications
-- 🌐 Full Stack Development
-- 📚 Data Structures & Algorithms
-- ☁️ Cloud Technologies
-- ⚙️ Backend Engineering
+- 🤖 AI-based Software Applications
+- 🌐 Full Stack Web Development
+- 🧠 Data Structures & Algorithms
+- ⚙ Backend Systems
+- ☁ Cloud Computing
 - 💡 Open Source Contributions
 
 ---
 
 # 💻 Tech Stack
 
-## Languages
+### 👨‍💻 Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,mysql"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,mysql"/>
 
 </p>
 
 ---
 
-## Frontend
+### 🎨 Frontend
 
 <p align="center">
 
@@ -94,7 +89,7 @@ Current Goal:
 
 ---
 
-## Backend
+### ⚙ Backend
 
 <p align="center">
 
@@ -104,7 +99,7 @@ Current Goal:
 
 ---
 
-## Database
+### 🗄 Database
 
 <p align="center">
 
@@ -114,7 +109,7 @@ Current Goal:
 
 ---
 
-## Tools
+### 🛠 Tools
 
 <p align="center">
 
@@ -124,270 +119,218 @@ Current Goal:
 
 ---
 
-> 💡 *"Technology is most meaningful when it solves real-world problems."*
+## 🌟 Core Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-059669?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend-E11D48?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-9333EA?style=for-the-badge"/>
+
+</p>
+
+---
+
+> **"I believe great software is built by combining curiosity, consistency, and continuous learning."**
 
 ---
 # 🚀 Featured Projects
 
 <div align="center">
 
-> *Building software that combines Artificial Intelligence, Full Stack Development, and Problem Solving.*
+### Building software that solves real-world problems through AI, Web Development, Mobile Apps, and Intelligent Systems.
 
 </div>
 
-<br>
+---
 
-<table>
+## 🧠 Semantic Contradiction Ledger
 
-<tr>
+<p align="center">
 
-<td width="50%" valign="top">
+<img src="./assets/semantic-ledger.png" width="850"/>
 
-## 🤖 InterviewIQ
+</p>
 
-### AI-Powered Interview Intelligence Platform
+AI-powered semantic contradiction detection system that analyzes statements, detects logical inconsistencies, and improves information reliability using Natural Language Processing.
 
-An intelligent interview preparation platform that simulates interviews, analyzes responses, evaluates resumes, and provides personalized feedback using AI.
+<p>
 
-### ✨ Features
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-- 📝 ATS Resume Analysis
-- 🎤 AI Mock Interviews
-- 📊 Performance Analytics
-- 💬 AI Feedback Engine
-- 📈 Progress Tracking
+<img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge"/>
 
-### 🛠 Tech Stack
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0EA5E9?style=for-the-badge"/>
 
-`React` `FastAPI` `Supabase` `OpenAI`
+</p>
 
-<br>
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ankita12365/Semantic-Contradiction-Ledger">
+<img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📚 AI Study Planner
-
-### Smart Productivity Platform
-
-A study management application that helps students organize timetables, assignments, notes, reminders, and learning resources with AI assistance.
-
-### ✨ Features
-
-- 📅 Timetable Management
-- 🤖 AI Assistant
-- 📚 Notes
-- 📈 Progress Dashboard
-- ⏰ Smart Reminders
-
-### 🛠 Tech Stack
-
-`React` `Node.js` `Supabase`
-
-<br>
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View_Project-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🍽 Smart Kitchen Inventory
-
-### Intelligent Kitchen Management
-
-A C++ application that predicts food spoilage, manages inventory, and recommends recipes using available ingredients.
-
-### ✨ Features
-
-- 📦 Inventory Tracking
-- ⏳ Expiry Prediction
-- 🍲 Recipe Suggestions
-- 💾 JSON Storage
-- 🔔 Smart Notifications
-
-### 🛠 Tech Stack
-
-`C++` `OOP` `JSON`
-
-<br>
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View_Project-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🦯 Voice Guided Navigation Stick
-
-### IoT Assistive Device
-
-An embedded systems project designed to help visually impaired users navigate safely using ultrasonic sensors and voice guidance.
-
-### ✨ Features
-
-- 📡 Obstacle Detection
-- 🔊 Voice Alerts
-- 📳 Vibration Feedback
-- ⚡ Energy Saving Mode
-- 🚶 Smart Navigation
-
-### 🛠 Tech Stack
-
-`Arduino` `IoT` `Sensors`
-
-<br>
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View_Project-10B981?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🌪 Disaster Evacuation Planner
-
-### AI-Based Emergency Routing
-
-A graph-based evacuation system that dynamically finds the safest evacuation routes during disasters.
-
-### ✨ Features
-
-- 📍 Route Optimization
-- ⚠ Dynamic Risk Analysis
-- 🧠 Graph Algorithms
-- 🚨 Emergency Navigation
-- 📊 Live Updates
-
-### 🛠 Tech Stack
-
-`Python` `Graphs` `Algorithms`
-
-<br>
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View_Project-E11D48?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-# 💡 Interests
-
-### 🤖 Artificial Intelligence
-
-### 🧠 Machine Learning
-
-### 🌐 Full Stack Development
-
-### ⚙ Backend Engineering
-
-### ☁ Cloud Computing
-
-### 🌍 Open Source
 
 ---
 
-### 💬 Motto
+## 🏥 MediSure
 
-> *"Every project is an opportunity to learn something new and build something meaningful."*
+<p align="center">
 
-</td>
+<img src="./assets/medisure.png" width="850"/>
 
-</tr>
+</p>
 
-</table>
+An AI-assisted healthcare platform that simplifies medical information management and aims to improve patient accessibility through intelligent features.
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Healthcare-DC2626?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Research-059669?style=for-the-badge"/>
+
+</p>
+
+<a href="https://github.com/ankita12365/MediSure">
+<img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-# 🛠 What I'm Currently Working On
+## 🏀 PocketCourt
 
-- 🚀 Building **InterviewIQ** with AI-powered interview simulation.
-- 📚 Enhancing an **AI Study Planner** for smarter student productivity.
-- 🧩 Solving **Data Structures & Algorithms** problems regularly.
-- 🤝 Exploring **Open Source** and collaborative development.
-- ☁ Learning **Cloud Computing** and **System Design**.
+<p align="center">
+
+<img src="./assets/pocketcourt.png" width="850"/>
+
+</p>
+
+A mobile application that helps users discover, book, and manage sports courts while encouraging community participation in sports.
+
+<p>
+
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Mobile%20Application-0891B2?style=for-the-badge"/>
+
+</p>
+
+<a href="https://github.com/ankita12365/PocketCourtApp">
+<img src="https://img.shields.io/badge/View%20Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
-# 🏆 LeetCode Achievements
+
+## 🌪 Smart Disaster Evacuation Planner
+
+<p align="center">
+
+<img src="./assets/disaster-planner.png" width="850"/>
+
+</p>
+
+A graph-based disaster evacuation planner that calculates the safest evacuation routes using intelligent path-finding and dynamic risk analysis.
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Graphs-E11D48?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Algorithms-7C3AED?style=for-the-badge"/>
+
+</p>
+
+<a href="https://github.com/ankita12365/Smart-Disaster-Evacuation-Planner">
+<img src="https://img.shields.io/badge/View%20Repository-E11D48?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 🍽 Smart Kitchen System
+
+<p align="center">
+
+<img src="./assets/smart-kitchen.png" width="850"/>
+
+</p>
+
+An intelligent inventory management system that predicts food spoilage, tracks kitchen inventory, and recommends recipes based on available ingredients.
+
+<p>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-9333EA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JSON-059669?style=for-the-badge"/>
+
+</p>
+
+<a href="https://github.com/ankita12365/Smart-Kitchen-System">
+<img src="https://img.shields.io/badge/View%20Repository-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+# 💡 Areas of Interest
 
 <div align="center">
 
-### 💛 Consistency is stronger than intensity.
+| 🤖 AI | 🌐 Full Stack | ☁ Cloud | 📱 Mobile | ⚙ Backend |
+|:----:|:-------------:|:-------:|:---------:|:---------:|
+| Building intelligent systems | Modern web applications | Scalable infrastructure | Cross-platform apps | APIs & services |
 
-<img src="./assets/50-days-badge.png" width="190"/>
+</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+---
+# 🏆 Achievements
 
-<img src="./assets/dcc-june-2026.png" width="190"/>
+<div align="center">
+
+### 💛 Consistency beats intensity.
+
+<br>
+
+<img src="./assets/50-days-badge.png" width="180"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="./assets/june-2026.png" width="180"/>
 
 <br><br>
 
-| Badge | Achievement |
-|-------|-------------|
-| 🟢 50 Days Badge 2026 | Solved problems consistently for 50+ days |
-| 🟠 DCC June 2026 | Completed the Daily Coding Challenge |
+| Achievement | Description |
+| :--- | :--- |
+| 🟢 **50 Days Badge 2026** | Earned by maintaining a consistent coding streak on LeetCode. |
+| 🟡 **Daily Coding Challenge - June 2026** | Successfully completed LeetCode's June Daily Coding Challenge. |
 
 <br>
 
 <a href="https://leetcode.com/u/Ankita_chavan09/">
-<img src="https://img.shields.io/badge/View%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals for 2026
 
-<table>
+<div align="center">
 
-<tr>
+| 🚀 Career | 📚 Learning | 💻 Development |
+| :--- | :--- | :--- |
+| Secure an SDE Internship | Master System Design | Build Production-Ready Applications |
+| Strengthen DSA | Learn Cloud Technologies | Explore AI & Machine Learning |
+| Contribute to Open Source | Improve Backend Skills | Develop Scalable Software |
 
-<td>
-
-### 🚀 Career
-
-- Secure an SDE Internship
-- Improve Problem Solving
-- Build Production-Level Projects
-- Contribute to Open Source
-
-</td>
-
-<td>
-
-### 💻 Development
-
-- Master Backend Development
-- Learn System Design
-- Explore Cloud Technologies
-- Build AI Products
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
@@ -395,27 +338,26 @@ A graph-based evacuation system that dynamically finds the safest evacuation rou
 
 <div align="center">
 
-| Domain | Progress |
-|---------|----------|
-| 🤖 Artificial Intelligence | █████████░ |
-| 🧠 Machine Learning | ████████░░ |
-| 🌐 Full Stack Development | ██████████ |
-| ⚙ Backend Development | █████████░ |
-| ☁ Cloud Computing | ██████░░░░ |
-| 📊 System Design | █████░░░░░ |
+| Technology | Progress |
+| :--- | :---: |
+| 🤖 Artificial Intelligence | █████████░ 90% |
+| 🌐 Full Stack Development | ██████████ 100% |
+| ⚙️ Backend Development | ████████░░ 80% |
+| ☁️ Cloud Computing | ██████░░░░ 60% |
+| 📊 System Design | █████░░░░░ 50% |
 
 </div>
 
 ---
 
-# 💡 Developer Mindset
+# 💡 What Drives Me
 
-```text
+```cpp
 while (!success)
 {
     Learn();
-    Practice();
     Build();
+    Debug();
     Improve();
     Repeat();
 }
@@ -423,21 +365,18 @@ while (!success)
 
 ---
 
-# ⚡ Fun Facts
+# 🌟 A Few Things About Me
 
-💙 I enjoy building AI-powered applications.
-
-🧩 I love solving Data Structures & Algorithms problems.
-
-🚀 I believe every project teaches something valuable.
-
-🌍 Passionate about building technology that creates real-world impact.
-
-☕ Coffee + Coding = Productivity ☕
+- 💙 Passionate about building software that solves real-world problems.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🌐 Love developing Full Stack applications.
+- 📚 Always learning new technologies.
+- 💡 Believe consistency is the key to becoming a better developer.
+- 🤝 Open to internships, collaborations, and open-source contributions.
 
 ---
 
-# 📌 Quick Snapshot
+# 📌 Quick Profile
 
 ```yaml
 Name:
@@ -446,42 +385,42 @@ Name:
 Role:
   Computer Engineering Student
 
-Interested In:
+College:
+  Vishwakarma Institute of Technology, Pune
+
+Interests:
   Artificial Intelligence
   Machine Learning
   Full Stack Development
   Backend Engineering
 
-Currently Working On:
-  InterviewIQ
-  AI Study Planner
-  Smart Kitchen Inventory
-
-Learning:
-  Cloud Computing
-  System Design
-
-Open To:
-  Internships
-  Open Source
-  Collaboration
+Looking For:
+  Software Engineering Internship
+  AI Projects
+  Open Source Collaboration
 ```
+
+---
+
+# 📚 Favorite Quote
+
+> **"The expert in anything was once a beginner who refused to give up."**
 
 ---
 # 🤝 Let's Connect
 
 <div align="center">
 
-### 💬 I'm always open to collaborating on exciting projects, discussing new ideas, or connecting with fellow developers.
+### I'm always excited to connect with developers, collaborate on projects, and learn new technologies.
 
 <br>
 
 <a href="https://github.com/ankita12365">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ankita-chavan-a89130357/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Ankita_chavan09/">
@@ -489,77 +428,77 @@ Open To:
 </a>
 
 <a href="https://www.instagram.com/_ankuzz_01/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💙 Thanks for Visiting!
+# 🚀 Open To
 
 <div align="center">
 
-### ⭐ If you like my projects, consider giving them a star!
-
-<img src="https://img.shields.io/badge/Thank_You-💙-2563EB?style=for-the-badge"/>
+| 💼 Internship | 🤝 Collaboration | 💡 Open Source | 🧠 AI Projects |
+|:-------------:|:----------------:|:--------------:|:--------------:|
+| ✅ | ✅ | ✅ | ✅ |
 
 </div>
 
 ---
 
-# 💭 Favorite Quote
+# 💻 Developer Philosophy
+
+> **"Code is more than syntax—it's about solving problems, learning continuously, and building technology that makes a difference."**
+
+---
+
+# ⭐ Support My Work
 
 <div align="center">
 
-> *"The best way to predict the future is to build it."*
+If you find any of my projects useful,
 
-> *"Stay curious. Keep learning. Build things that matter."*
+consider giving them a ⭐ on GitHub.
+
+<br><br>
+
+<a href="https://github.com/ankita12365?tab=repositories">
+<img src="https://img.shields.io/badge/⭐%20Explore%20My%20Repositories-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🚀 Beyond Code
+# 📌 Current Focus
 
-<div align="center">
+```text
+🤖 Artificial Intelligence
 
-| 🌱 Always Learning | 🤝 Collaboration | 💡 Innovation |
-|:------------------:|:----------------:|:-------------:|
-| AI & Machine Learning | Open Source | Real-World Solutions |
+🌐 Full Stack Development
 
-</div>
+🧠 Machine Learning
 
----
+⚙ Backend Development
 
-# 📈 Profile Highlights
+☁ Cloud Computing
 
-<div align="center">
-
-🏆 AI Enthusiast
-
-💻 Full Stack Developer
-
-🧠 Problem Solver
-
-🚀 Continuous Learner
-
-🌍 Open Source Explorer
-
-</div>
+🚀 Building Impactful Projects
+```
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1500&color=38BDF8&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+💙;Let's+Build+Something+Amazing!"/>
-
-</div>
-
----
+# 💙 Thanks For Visiting
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,50:2563EB,100:0F172A"/>
+### Thanks for stopping by!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&width=650&lines=Happy+Coding!+💙;Always+Learning.;Always+Building.;See+you+again!"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0B1120,50:1D4ED8,100:38BDF8"/>
 
 </div>
