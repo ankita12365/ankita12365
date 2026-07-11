@@ -323,11 +323,15 @@ Currently exploring AI, Full Stack Development, Cloud Computing, and Open Source
 
 <br>
 
-<img src="./assets/50-days-badge.png" width="180"/>
+<div align="center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ankita12365/ankita12365/main/assets/50-days-badge.png" width="190"/>
 
-<img src="./assets/june-2026.png" width="180"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/ankita12365/ankita12365/main/assets/June-2026.png" width="190"/>
+
+</div>
 
 <br><br>
 
